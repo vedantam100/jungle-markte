@@ -1,0 +1,4784 @@
+// {
+//   "orders": [
+//     {
+//       "id": "a96145be-f77c-4fd4-abdb-de0db293b6a2",
+//       "user": {
+//         "id": "42b3",
+//         "email": "parthguptaji20@gmail.com",
+//         "password": "qwerty",
+//         "role": "user",
+//         "addresses": [
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "pokemonfan20082003@gmail.com",
+//             "Address": "1055\nHola",
+//             "City": "Indore",
+//             "PostCode": "452020",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "pokemonfan20082003@gmail.com",
+//             "Address": "1055\nHola",
+//             "City": "Indore",
+//             "PostCode": "452020",
+//             "remember": false,
+//             "Message": "er"
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthgupta221092@acropolis.in",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           }
+//         ]
+//       },
+//       "addresses": {
+//         "firstName": "Parth",
+//         "secondtName": "Gupta",
+//         "email": "parthguptaji20@gmail.com",
+//         "Address": "114",
+//         "City": "Indore",
+//         "PostCode": "452010",
+//         "remember": false,
+//         "Message": ""
+//       },
+//       "items": [
+//         {
+//           "id": "3",
+//           "title": "Samsung Universe 9",
+//           "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+//           "price": 1249,
+//           "discountPercentage": 15.46,
+//           "rating": 4.09,
+//           "stock": 36,
+//           "brand": "Samsung",
+//           "category": "smartphones",
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/3/1.jpg"
+//           ],
+//           "quantity": 2,
+//           "userId": "42b3"
+//         },
+//         {
+//           "id": "5",
+//           "title": "Huawei P30",
+//           "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+//           "price": 499,
+//           "discountPercentage": 10.58,
+//           "rating": 4.09,
+//           "stock": 32,
+//           "brand": "Huawei",
+//           "category": "smartphones",
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/5/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/5/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/5/3.jpg"
+//           ],
+//           "quantity": 2,
+//           "userId": "42b3"
+//         }
+//       ],
+//       "timestamp": "May 19, 2024, 11:39 PM",
+//       "cost": {
+//         "mrp": 1748,
+//         "totalprice": 3004.2207999999996
+//       },
+//       "status": "Pending"
+//     },
+//     {
+//       "id": "d52deafb-296d-4b25-b78a-a5d9b597fc6a",
+//       "user": {
+//         "id": "42b3",
+//         "email": "parthguptaji20@gmail.com",
+//         "password": "qwerty",
+//         "role": "user",
+//         "addresses": [
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "pokemonfan20082003@gmail.com",
+//             "Address": "1055\nHola",
+//             "City": "Indore",
+//             "PostCode": "452020",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "pokemonfan20082003@gmail.com",
+//             "Address": "1055\nHola",
+//             "City": "Indore",
+//             "PostCode": "452020",
+//             "remember": false,
+//             "Message": "er"
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthgupta221092@acropolis.in",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           }
+//         ]
+//       },
+//       "addresses": {
+//         "firstName": "Parth",
+//         "secondtName": "Gupta",
+//         "email": "pokemonfan20082003@gmail.com",
+//         "Address": "1055\nHola",
+//         "City": "Indore",
+//         "PostCode": "452020",
+//         "remember": false,
+//         "Message": ""
+//       },
+//       "items": [
+//         {
+//           "id": "10",
+//           "title": "HP Pavilion 15-DK1056WM",
+//           "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+//           "price": 1099,
+//           "discountPercentage": 6.18,
+//           "rating": 4.43,
+//           "stock": 89,
+//           "brand": "HP Pavilion",
+//           "category": "laptops",
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/10/thumbnail.jpeg",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/10/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/10/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/10/3.jpg",
+//             "https://cdn.dummyjson.com/product-images/10/thumbnail.jpeg"
+//           ],
+//           "quantity": 2,
+//           "userId": "42b3"
+//         }
+//       ],
+//       "timestamp": "May 19, 2024, 11:40 PM",
+//       "cost": {
+//         "mrp": 1099,
+//         "totalprice": 2062.1636
+//       },
+//       "status": "Arrived"
+//     },
+//     {
+//       "id": "796f4690-99ae-436a-8423-a7571c7001c1",
+//       "user": {
+//         "id": "42b3",
+//         "email": "parthguptaji20@gmail.com",
+//         "password": "qwerty",
+//         "role": "user",
+//         "addresses": [
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "pokemonfan20082003@gmail.com",
+//             "Address": "1055\nHola",
+//             "City": "Indore",
+//             "PostCode": "452020",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "pokemonfan20082003@gmail.com",
+//             "Address": "1055\nHola",
+//             "City": "Indore",
+//             "PostCode": "452020",
+//             "remember": false,
+//             "Message": "er"
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthgupta221092@acropolis.in",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           }
+//         ]
+//       },
+//       "addresses": {
+//         "firstName": "Parth",
+//         "secondtName": "Gupta",
+//         "email": "parthguptaji20@gmail.com",
+//         "Address": "114",
+//         "City": "Indore",
+//         "PostCode": "452010",
+//         "remember": false,
+//         "Message": ""
+//       },
+//       "items": [
+//         {
+//           "id": "4",
+//           "title": "OPPOF19",
+//           "description": "OPPO F19 is officially announced on April 2021.",
+//           "price": 280,
+//           "discountPercentage": 17.91,
+//           "rating": 4.3,
+//           "stock": 123,
+//           "brand": "OPPO",
+//           "category": "smartphones",
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/4/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/4/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/4/3.jpg",
+//             "https://cdn.dummyjson.com/product-images/4/4.jpg",
+//             "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg"
+//           ],
+//           "quantity": 1,
+//           "userId": "42b3"
+//         }
+//       ],
+//       "timestamp": "May 20, 2024, 11:43 AM",
+//       "cost": {
+//         "mrp": 280,
+//         "totalprice": 229.85199999999998
+//       },
+//       "status": "Arrived"
+//     },
+//     {
+//       "id": "33d29191-f255-4e86-9a71-b3cac3939445",
+//       "user": {
+//         "id": "42b3",
+//         "email": "parthguptaji20@gmail.com",
+//         "password": "qwerty",
+//         "role": "user",
+//         "addresses": [
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "pokemonfan20082003@gmail.com",
+//             "Address": "1055\nHola",
+//             "City": "Indore",
+//             "PostCode": "452020",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "pokemonfan20082003@gmail.com",
+//             "Address": "1055\nHola",
+//             "City": "Indore",
+//             "PostCode": "452020",
+//             "remember": false,
+//             "Message": "er"
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthgupta221092@acropolis.in",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           }
+//         ]
+//       },
+//       "addresses": {
+//         "firstName": "Parth",
+//         "secondtName": "Gupta",
+//         "email": "parthguptaji20@gmail.com",
+//         "Address": "114",
+//         "City": "Indore",
+//         "PostCode": "452010",
+//         "remember": false,
+//         "Message": ""
+//       },
+//       "items": [
+//         {
+//           "id": "3",
+//           "title": "Samsung Universe 9",
+//           "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+//           "price": 1249,
+//           "discountPercentage": 15.46,
+//           "rating": 4.09,
+//           "stock": 36,
+//           "brand": "Samsung",
+//           "category": "smartphones",
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/3/1.jpg"
+//           ],
+//           "quantity": 1,
+//           "userId": "42b3"
+//         }
+//       ],
+//       "timestamp": "May 20, 2024, 3:08 PM",
+//       "cost": {
+//         "mrp": 1249,
+//         "totalprice": 1055.9045999999998
+//       },
+//       "status": "Arrived"
+//     },
+//     {
+//       "id": "fe1ef612-3781-43d3-a307-ec428a9b683d",
+//       "user": {
+//         "id": "42b3",
+//         "email": "parthguptaji20@gmail.com",
+//         "password": "qwerty",
+//         "role": "user",
+//         "addresses": [
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "pokemonfan20082003@gmail.com",
+//             "Address": "1055\nHola",
+//             "City": "Indore",
+//             "PostCode": "452020",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "pokemonfan20082003@gmail.com",
+//             "Address": "1055\nHola",
+//             "City": "Indore",
+//             "PostCode": "452020",
+//             "remember": false,
+//             "Message": "er"
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthgupta221092@acropolis.in",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           }
+//         ]
+//       },
+//       "addresses": {
+//         "firstName": "Parth",
+//         "secondtName": "Gupta",
+//         "email": "parthguptaji20@gmail.com",
+//         "Address": "114",
+//         "City": "Indore",
+//         "PostCode": "452010",
+//         "remember": false,
+//         "Message": ""
+//       },
+//       "items": [
+//         {
+//           "id": "84",
+//           "title": "Square Sunglasses",
+//           "description": "Fashion Oversized Square Sunglasses Retro Gradient Big Frame Sunglasses For Women One Piece Gafas Shade Mirror Clear Lens 17059",
+//           "price": 28,
+//           "discountPercentage": 13.89,
+//           "rating": 4.64,
+//           "stock": 64,
+//           "brand": "mastar watch",
+//           "category": "sunglasses",
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/84/thumbnail.jpg",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/84/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/84/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/84/thumbnail.jpg"
+//           ],
+//           "quantity": 1,
+//           "userId": "42b3"
+//         },
+//         {
+//           "id": "10",
+//           "title": "HP Pavilion 15-DK1056WM",
+//           "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+//           "price": 1099,
+//           "discountPercentage": 6.18,
+//           "rating": 4.43,
+//           "stock": 89,
+//           "brand": "HP Pavilion",
+//           "category": "laptops",
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/10/thumbnail.jpeg",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/10/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/10/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/10/3.jpg",
+//             "https://cdn.dummyjson.com/product-images/10/thumbnail.jpeg"
+//           ],
+//           "quantity": 1,
+//           "userId": "42b3"
+//         }
+//       ],
+//       "timestamp": "May 20, 2024, 3:19 PM",
+//       "cost": {
+//         "mrp": 1127,
+//         "totalprice": 1055.1925999999999
+//       },
+//       "status": "pending"
+//     },
+//     {
+//       "id": "8bcf211e-01f8-4198-9d8e-c803e3201d02",
+//       "user": {
+//         "id": "42b3",
+//         "email": "parthguptaji20@gmail.com",
+//         "password": "qwerty",
+//         "role": "user",
+//         "addresses": [
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "pokemonfan20082003@gmail.com",
+//             "Address": "1055\nHola",
+//             "City": "Indore",
+//             "PostCode": "452020",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "pokemonfan20082003@gmail.com",
+//             "Address": "1055\nHola",
+//             "City": "Indore",
+//             "PostCode": "452020",
+//             "remember": false,
+//             "Message": "er"
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthgupta221092@acropolis.in",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           }
+//         ]
+//       },
+//       "addresses": {
+//         "firstName": "Parth",
+//         "secondtName": "Gupta",
+//         "email": "parthguptaji20@gmail.com",
+//         "Address": "114",
+//         "City": "Indore",
+//         "PostCode": "452010",
+//         "remember": false,
+//         "Message": ""
+//       },
+//       "items": [
+//         {
+//           "id": "3",
+//           "title": "Samsung Universe 9",
+//           "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+//           "price": 1249,
+//           "discountPercentage": 15.46,
+//           "rating": 4.09,
+//           "stock": 36,
+//           "brand": "Samsung",
+//           "category": "smartphones",
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/3/1.jpg"
+//           ],
+//           "quantity": 1,
+//           "userId": "42b3"
+//         }
+//       ],
+//       "timestamp": "May 20, 2024, 3:20 PM",
+//       "cost": {
+//         "mrp": 1249,
+//         "totalprice": 1055.9045999999998
+//       },
+//       "status": "Dispatch"
+//     },
+//     {
+//       "id": "7ec4ac06-7c09-4a2a-be98-feec58168e68",
+//       "user": {
+//         "id": "42b3",
+//         "email": "parthguptaji20@gmail.com",
+//         "password": "qwerty",
+//         "role": "user",
+//         "addresses": [
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "pokemonfan20082003@gmail.com",
+//             "Address": "1055\nHola",
+//             "City": "Indore",
+//             "PostCode": "452020",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "pokemonfan20082003@gmail.com",
+//             "Address": "1055\nHola",
+//             "City": "Indore",
+//             "PostCode": "452020",
+//             "remember": false,
+//             "Message": "er"
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthgupta221092@acropolis.in",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           }
+//         ]
+//       },
+//       "addresses": {
+//         "firstName": "Parth",
+//         "secondtName": "Gupta",
+//         "email": "parthguptaji20@gmail.com",
+//         "Address": "114",
+//         "City": "Indore",
+//         "PostCode": "452010",
+//         "remember": false,
+//         "Message": ""
+//       },
+//       "items": [
+//         {
+//           "id": "4",
+//           "title": "OPPOF19",
+//           "description": "OPPO F19 is officially announced on April 2021.",
+//           "price": 280,
+//           "discountPercentage": 17.91,
+//           "rating": 4.3,
+//           "stock": 123,
+//           "brand": "OPPO",
+//           "category": "smartphones",
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/4/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/4/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/4/3.jpg",
+//             "https://cdn.dummyjson.com/product-images/4/4.jpg",
+//             "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg"
+//           ],
+//           "quantity": 1,
+//           "userId": "42b3"
+//         }
+//       ],
+//       "timestamp": "May 20, 2024, 11:20 PM",
+//       "cost": {
+//         "mrp": 280,
+//         "totalprice": 229.85199999999998
+//       },
+//       "status": "pending"
+//     },
+//     {
+//       "id": "bbfb2ee3-4587-4f45-9c70-7c665223ebdb",
+//       "user": {
+//         "id": "42b3",
+//         "email": "parthguptaji20@gmail.com",
+//         "password": "qwerty",
+//         "role": "user",
+//         "addresses": [
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "pokemonfan20082003@gmail.com",
+//             "Address": "1055\nHola",
+//             "City": "Indore",
+//             "PostCode": "452020",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "pokemonfan20082003@gmail.com",
+//             "Address": "1055\nHola",
+//             "City": "Indore",
+//             "PostCode": "452020",
+//             "remember": false,
+//             "Message": "er"
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthgupta221092@acropolis.in",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           }
+//         ]
+//       },
+//       "addresses": {
+//         "firstName": "Parth",
+//         "secondtName": "Gupta",
+//         "email": "parthguptaji20@gmail.com",
+//         "Address": "114",
+//         "City": "Indore",
+//         "PostCode": "452010",
+//         "remember": false,
+//         "Message": ""
+//       },
+//       "items": [
+//         {
+//           "id": "74",
+//           "title": "Leather Hand Bag",
+//           "description": "It features an attractive design that makes it a must have accessory in your collection. We sell different kind of bags for boys, kids, women, girls and also for unisex.",
+//           "price": 57,
+//           "discountPercentage": 11.19,
+//           "rating": 4.01,
+//           "stock": 43,
+//           "brand": "Copenhagen Luxe",
+//           "category": "womens-bags",
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/74/thumbnail.jpg",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/74/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/74/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/74/3.jpg",
+//             "https://cdn.dummyjson.com/product-images/74/4.jpg",
+//             "https://cdn.dummyjson.com/product-images/74/thumbnail.jpg"
+//           ],
+//           "quantity": 1,
+//           "userId": "42b3"
+//         }
+//       ],
+//       "timestamp": "May 21, 2024, 1:42 PM",
+//       "cost": {
+//         "mrp": 57,
+//         "totalprice": 50.6217
+//       },
+//       "status": "pending"
+//     },
+//     {
+//       "id": "f2256d41-5c74-4916-bfe5-19a1e4f6f351",
+//       "user": {
+//         "id": "42b3",
+//         "email": "parthguptaji20@gmail.com",
+//         "password": "qwerty",
+//         "role": "user",
+//         "addresses": [
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "pokemonfan20082003@gmail.com",
+//             "Address": "1055\nHola",
+//             "City": "Indore",
+//             "PostCode": "452020",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "pokemonfan20082003@gmail.com",
+//             "Address": "1055\nHola",
+//             "City": "Indore",
+//             "PostCode": "452020",
+//             "remember": false,
+//             "Message": "er"
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthgupta221092@acropolis.in",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           }
+//         ]
+//       },
+//       "addresses": {
+//         "firstName": "Parth",
+//         "secondtName": "Gupta",
+//         "email": "pokemonfan20082003@gmail.com",
+//         "Address": "1055\nHola",
+//         "City": "Indore",
+//         "PostCode": "452020",
+//         "remember": false,
+//         "Message": ""
+//       },
+//       "items": [
+//         {
+//           "id": "4",
+//           "_id": "664ce058f017084b62eb9291",
+//           "brand": "OPPO",
+//           "category": "smartphones",
+//           "description": "OPPO F19 is officially announced on April 2021.",
+//           "discountPercentage": 17.91,
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/4/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/4/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/4/3.jpg",
+//             "https://cdn.dummyjson.com/product-images/4/4.jpg",
+//             "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg"
+//           ],
+//           "price": 280,
+//           "rating": 4.3,
+//           "stock": 123,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg",
+//           "title": "OPPOF19",
+//           "quantity": 1,
+//           "userId": "42b3"
+//         }
+//       ],
+//       "timestamp": "May 22, 2024, 10:27 PM",
+//       "cost": {
+//         "mrp": 280,
+//         "totalprice": 229.85199999999998
+//       },
+//       "status": "pending"
+//     },
+//     {
+//       "id": "6f4c6a30-8518-488e-ab34-625bcdf55689",
+//       "user": {
+//         "id": "42b3",
+//         "email": "parthguptaji20@gmail.com",
+//         "password": "qwerty",
+//         "role": "user",
+//         "addresses": [
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "pokemonfan20082003@gmail.com",
+//             "Address": "1055\nHola",
+//             "City": "Indore",
+//             "PostCode": "452020",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "pokemonfan20082003@gmail.com",
+//             "Address": "1055\nHola",
+//             "City": "Indore",
+//             "PostCode": "452020",
+//             "remember": false,
+//             "Message": "er"
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthgupta221092@acropolis.in",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           }
+//         ]
+//       },
+//       "addresses": {
+//         "firstName": "Parth",
+//         "secondtName": "Gupta",
+//         "email": "parthguptaji20@gmail.com",
+//         "Address": "114",
+//         "City": "Indore",
+//         "PostCode": "452010",
+//         "remember": false,
+//         "Message": ""
+//       },
+//       "items": [
+//         {
+//           "id": "4",
+//           "_id": "664f5b88aeb7c5f0c12d8932",
+//           "brand": "OPPO",
+//           "category": "smartphones",
+//           "description": "OPPO F19 is officially announced on April 2021.",
+//           "discountPercentage": 17.91,
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/4/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/4/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/4/3.jpg",
+//             "https://cdn.dummyjson.com/product-images/4/4.jpg",
+//             "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg"
+//           ],
+//           "price": 280,
+//           "rating": 4.3,
+//           "stock": 123,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg",
+//           "title": "OPPOF19",
+//           "quantity": 1,
+//           "userId": "42b3"
+//         }
+//       ],
+//       "timestamp": "May 24, 2024, 7:59 PM",
+//       "cost": {
+//         "mrp": 280,
+//         "totalprice": 229.85199999999998
+//       },
+//       "status": "pending"
+//     },
+//     {
+//       "id": "7399285d-5c00-4f93-847c-d1bd978d0669",
+//       "user": {
+//         "_id": "66506a7aad6ca5c722b91f92",
+//         "id": "42b3",
+//         "email": "parthguptaji20@gmail.com",
+//         "password": "qwerty",
+//         "role": "user",
+//         "addresses": [
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "pokemonfan20082003@gmail.com",
+//             "Address": "1055\nHola",
+//             "City": "Indore",
+//             "PostCode": "452020",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "pokemonfan20082003@gmail.com",
+//             "Address": "1055\nHola",
+//             "City": "Indore",
+//             "PostCode": "452020",
+//             "remember": false,
+//             "Message": "er"
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthgupta221092@acropolis.in",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           }
+//         ]
+//       },
+//       "addresses": {
+//         "firstName": "Parth",
+//         "secondtName": "Gupta",
+//         "email": "parthguptaji20@gmail.com",
+//         "Address": "114",
+//         "City": "Indore",
+//         "PostCode": "452010",
+//         "remember": false,
+//         "Message": ""
+//       },
+//       "items": [
+//         {
+//           "id": "3",
+//           "_id": "664f5b88aeb7c5f0c12d8931",
+//           "brand": "Samsung",
+//           "category": "smartphones",
+//           "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+//           "discountPercentage": 15.46,
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/3/1.jpg"
+//           ],
+//           "price": 1249,
+//           "rating": 4.09,
+//           "stock": 36,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg",
+//           "title": "Samsung Universe 9",
+//           "quantity": 2,
+//           "userId": "42b3"
+//         }
+//       ],
+//       "timestamp": "May 24, 2024, 8:00 PM",
+//       "cost": {
+//         "mrp": 1249,
+//         "totalprice": 2111.8091999999997
+//       },
+//       "status": "pending"
+//     },
+//     {
+//       "id": "1bce6600-539c-471f-b1a8-1cbc2a9cbacb",
+//       "user": {
+//         "_id": "66506a7aad6ca5c722b91f92",
+//         "id": "42b3",
+//         "email": "parthguptaji20@gmail.com",
+//         "password": "qwerty",
+//         "role": "user",
+//         "addresses": [
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "pokemonfan20082003@gmail.com",
+//             "Address": "1055\nHola",
+//             "City": "Indore",
+//             "PostCode": "452020",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "pokemonfan20082003@gmail.com",
+//             "Address": "1055\nHola",
+//             "City": "Indore",
+//             "PostCode": "452020",
+//             "remember": false,
+//             "Message": "er"
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthgupta221092@acropolis.in",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           }
+//         ]
+//       },
+//       "addresses": {
+//         "firstName": "Parth",
+//         "secondtName": "Gupta",
+//         "email": "parthguptaji20@gmail.com",
+//         "Address": "114",
+//         "City": "Indore",
+//         "PostCode": "452010",
+//         "remember": false,
+//         "Message": ""
+//       },
+//       "items": [
+//         {
+//           "id": "1",
+//           "_id": "664f5b88aeb7c5f0c12d8930",
+//           "brand": "Apple",
+//           "category": "smartphones",
+//           "description": "An apple mobile which is nothing like apple",
+//           "discountPercentage": 12.96,
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/1/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/1/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/1/3.jpg",
+//             "https://cdn.dummyjson.com/product-images/1/4.jpg",
+//             "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg"
+//           ],
+//           "price": 549,
+//           "rating": 4.69,
+//           "stock": 94,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+//           "title": "iPhone 9",
+//           "quantity": 1,
+//           "userId": "42b3"
+//         }
+//       ],
+//       "timestamp": "May 24, 2024, 8:05 PM",
+//       "cost": {
+//         "mrp": 549,
+//         "totalprice": 477.84959999999995
+//       },
+//       "status": "pending"
+//     },
+//     {
+//       "id": "a5721796-69e1-4d17-b320-af23b0d01b5c",
+//       "user": {
+//         "_id": "66506a7aad6ca5c722b91f92",
+//         "id": "42b3",
+//         "email": "parthguptaji20@gmail.com",
+//         "password": "65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5",
+//         "role": "user",
+//         "addresses": [
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "pokemonfan20082003@gmail.com",
+//             "Address": "1055\nHola",
+//             "City": "Indore",
+//             "PostCode": "452020",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "pokemonfan20082003@gmail.com",
+//             "Address": "1055\nHola",
+//             "City": "Indore",
+//             "PostCode": "452020",
+//             "remember": false,
+//             "Message": "er"
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthgupta221092@acropolis.in",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           }
+//         ]
+//       },
+//       "addresses": {
+//         "firstName": "Parth",
+//         "secondtName": "Gupta",
+//         "email": "parthguptaji20@gmail.com",
+//         "Address": "114",
+//         "City": "Indore",
+//         "PostCode": "452010",
+//         "remember": false,
+//         "Message": ""
+//       },
+//       "items": [
+//         {
+//           "id": "3",
+//           "_id": "664f5b88aeb7c5f0c12d8931",
+//           "brand": "Samsung",
+//           "category": "smartphones",
+//           "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+//           "discountPercentage": 15.46,
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/3/1.jpg"
+//           ],
+//           "price": 1249,
+//           "rating": 4.09,
+//           "stock": 36,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg",
+//           "title": "Samsung Universe 9",
+//           "quantity": 1,
+//           "userId": "42b3"
+//         },
+//         {
+//           "id": "9",
+//           "_id": "664f5b88aeb7c5f0c12d8936",
+//           "brand": "Infinix",
+//           "category": "laptops",
+//           "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+//           "discountPercentage": 11.83,
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/9/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/9/2.png",
+//             "https://cdn.dummyjson.com/product-images/9/3.png",
+//             "https://cdn.dummyjson.com/product-images/9/4.jpg",
+//             "https://cdn.dummyjson.com/product-images/9/thumbnail.jpg"
+//           ],
+//           "price": 1099,
+//           "rating": 4.54,
+//           "stock": 96,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/9/thumbnail.jpg",
+//           "title": "Infinix INBOOK",
+//           "quantity": 1,
+//           "userId": "42b3"
+//         },
+//         {
+//           "id": "5",
+//           "_id": "664f5b88aeb7c5f0c12d8933",
+//           "brand": "Huawei",
+//           "category": "smartphones",
+//           "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+//           "discountPercentage": 10.58,
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/5/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/5/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/5/3.jpg"
+//           ],
+//           "price": 499,
+//           "rating": 4.09,
+//           "stock": 32,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg",
+//           "title": "Huawei P30",
+//           "quantity": 1,
+//           "userId": "42b3"
+//         }
+//       ],
+//       "timestamp": "May 25, 2024, 12:08 AM",
+//       "cost": {
+//         "mrp": 2847,
+//         "totalprice": 2471.0987
+//       },
+//       "status": "pending"
+//     },
+//     {
+//       "id": "24d1fc96-0b0f-4d2f-be27-e6813b951df9",
+//       "user": {
+//         "_id": "66506a7aad6ca5c722b91f92",
+//         "id": "42b3",
+//         "email": "parthguptaji20@gmail.com",
+//         "password": "65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5",
+//         "role": "user",
+//         "addresses": [
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "pokemonfan20082003@gmail.com",
+//             "Address": "1055\nHola",
+//             "City": "Indore",
+//             "PostCode": "452020",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "pokemonfan20082003@gmail.com",
+//             "Address": "1055\nHola",
+//             "City": "Indore",
+//             "PostCode": "452020",
+//             "remember": false,
+//             "Message": "er"
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthgupta221092@acropolis.in",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           }
+//         ]
+//       },
+//       "addresses": {
+//         "firstName": "Parth",
+//         "secondtName": "Gupta",
+//         "email": "parthguptaji20@gmail.com",
+//         "Address": "114",
+//         "City": "Indore",
+//         "PostCode": "452010",
+//         "remember": false,
+//         "Message": ""
+//       },
+//       "items": [
+//         {
+//           "id": "7",
+//           "_id": "664f5b88aeb7c5f0c12d8935",
+//           "brand": "Samsung",
+//           "category": "laptops",
+//           "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+//           "discountPercentage": 4.15,
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/7/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/7/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/7/3.jpg",
+//             "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg"
+//           ],
+//           "price": 1499,
+//           "rating": 4.25,
+//           "stock": 50,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg",
+//           "title": "Samsung Galaxy Book",
+//           "quantity": 2,
+//           "userId": "42b3"
+//         },
+//         {
+//           "id": "7",
+//           "_id": "664f5b88aeb7c5f0c12d8935",
+//           "brand": "Samsung",
+//           "category": "laptops",
+//           "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+//           "discountPercentage": 4.15,
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/7/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/7/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/7/3.jpg",
+//             "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg"
+//           ],
+//           "price": 1499,
+//           "rating": 4.25,
+//           "stock": 50,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg",
+//           "title": "Samsung Galaxy Book",
+//           "quantity": 1,
+//           "userId": "42b3"
+//         }
+//       ],
+//       "timestamp": "May 25, 2024, 3:08 PM",
+//       "cost": {
+//         "mrp": 2998,
+//         "totalprice": 4310.3745
+//       },
+//       "status": "pending"
+//     },
+//     {
+//       "id": "8bcbc4bb-c87c-4f52-a72a-08564fa7f309",
+//       "user": {
+//         "_id": "66506a7aad6ca5c722b91f92",
+//         "id": "42b3",
+//         "email": "parthguptaji20@gmail.com",
+//         "password": "65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5",
+//         "role": "user",
+//         "addresses": [
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "pokemonfan20082003@gmail.com",
+//             "Address": "1055\nHola",
+//             "City": "Indore",
+//             "PostCode": "452020",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "pokemonfan20082003@gmail.com",
+//             "Address": "1055\nHola",
+//             "City": "Indore",
+//             "PostCode": "452020",
+//             "remember": false,
+//             "Message": "er"
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthgupta221092@acropolis.in",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           }
+//         ]
+//       },
+//       "addresses": {
+//         "firstName": "Parth",
+//         "secondtName": "Gupta",
+//         "email": "parthguptaji20@gmail.com",
+//         "Address": "114",
+//         "City": "Indore",
+//         "PostCode": "452010",
+//         "remember": false,
+//         "Message": ""
+//       },
+//       "items": [
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8937",
+//           "brand": "HP Pavilion",
+//           "category": "laptops",
+//           "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+//           "discountPercentage": 6.18,
+//           "id": "10",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/10/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/10/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/10/3.jpg",
+//             "https://cdn.dummyjson.com/product-images/10/thumbnail.jpeg"
+//           ],
+//           "price": 1099,
+//           "rating": 4.43,
+//           "stock": 89,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/10/thumbnail.jpeg",
+//           "title": "HP Pavilion 15-DK1056WM",
+//           "quantity": 1,
+//           "userId": "42b3"
+//         },
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8931",
+//           "brand": "Samsung",
+//           "category": "smartphones",
+//           "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+//           "discountPercentage": 15.46,
+//           "id": "3",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/3/1.jpg"
+//           ],
+//           "price": 1249,
+//           "rating": 4.09,
+//           "stock": 36,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg",
+//           "title": "Samsung Universe 9",
+//           "quantity": 4,
+//           "userId": "42b3"
+//         },
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8932",
+//           "brand": "OPPO",
+//           "category": "smartphones",
+//           "description": "OPPO F19 is officially announced on April 2021.",
+//           "discountPercentage": 17.91,
+//           "id": "4",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/4/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/4/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/4/3.jpg",
+//             "https://cdn.dummyjson.com/product-images/4/4.jpg",
+//             "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg"
+//           ],
+//           "price": 280,
+//           "rating": 4.3,
+//           "stock": 123,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg",
+//           "title": "OPPOF19",
+//           "quantity": 1,
+//           "userId": "42b3"
+//         },
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8933",
+//           "brand": "Huawei",
+//           "category": "smartphones",
+//           "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+//           "discountPercentage": 10.58,
+//           "id": "5",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/5/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/5/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/5/3.jpg"
+//           ],
+//           "price": 499,
+//           "rating": 4.09,
+//           "stock": 32,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg",
+//           "title": "Huawei P30",
+//           "quantity": 1,
+//           "userId": "42b3"
+//         },
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8934",
+//           "brand": "Apple",
+//           "category": "laptops",
+//           "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+//           "discountPercentage": 11.02,
+//           "id": "6",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/6/1.png",
+//             "https://cdn.dummyjson.com/product-images/6/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/6/3.png",
+//             "https://cdn.dummyjson.com/product-images/6/4.jpg"
+//           ],
+//           "price": 1749,
+//           "rating": 4.57,
+//           "stock": 83,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/6/thumbnail.png",
+//           "title": "MacBook Pro",
+//           "quantity": 1,
+//           "userId": "42b3"
+//         }
+//       ],
+//       "timestamp": "May 25, 2024, 4:48 PM",
+//       "cost": {
+//         "mrp": 4876,
+//         "totalprice": 7487.018199999999
+//       },
+//       "status": "pending"
+//     },
+//     {
+//       "id": "b72f7432-dd86-4947-a380-5cb1f265c337",
+//       "user": {
+//         "_id": "66506a7aad6ca5c722b91f92",
+//         "id": "42b3",
+//         "email": "parthguptaji20@gmail.com",
+//         "password": "65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5",
+//         "role": "user",
+//         "addresses": [
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "pokemonfan20082003@gmail.com",
+//             "Address": "1055\nHola",
+//             "City": "Indore",
+//             "PostCode": "452020",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "pokemonfan20082003@gmail.com",
+//             "Address": "1055\nHola",
+//             "City": "Indore",
+//             "PostCode": "452020",
+//             "remember": false,
+//             "Message": "er"
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthgupta221092@acropolis.in",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           }
+//         ]
+//       },
+//       "addresses": {
+//         "firstName": "Parth",
+//         "secondtName": "Gupta",
+//         "email": "parthguptaji20@gmail.com",
+//         "Address": "114",
+//         "City": "Indore",
+//         "PostCode": "452010",
+//         "remember": false,
+//         "Message": ""
+//       },
+//       "items": [
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8937",
+//           "brand": "HP Pavilion",
+//           "category": "laptops",
+//           "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+//           "discountPercentage": 6.18,
+//           "id": "10",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/10/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/10/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/10/3.jpg",
+//             "https://cdn.dummyjson.com/product-images/10/thumbnail.jpeg"
+//           ],
+//           "price": 1099,
+//           "rating": 4.43,
+//           "stock": 89,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/10/thumbnail.jpeg",
+//           "title": "HP Pavilion 15-DK1056WM",
+//           "quantity": 1,
+//           "userId": "42b3"
+//         },
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8931",
+//           "brand": "Samsung",
+//           "category": "smartphones",
+//           "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+//           "discountPercentage": 15.46,
+//           "id": "3",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/3/1.jpg"
+//           ],
+//           "price": 1249,
+//           "rating": 4.09,
+//           "stock": 36,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg",
+//           "title": "Samsung Universe 9",
+//           "quantity": 4,
+//           "userId": "42b3"
+//         },
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8932",
+//           "brand": "OPPO",
+//           "category": "smartphones",
+//           "description": "OPPO F19 is officially announced on April 2021.",
+//           "discountPercentage": 17.91,
+//           "id": "4",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/4/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/4/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/4/3.jpg",
+//             "https://cdn.dummyjson.com/product-images/4/4.jpg",
+//             "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg"
+//           ],
+//           "price": 280,
+//           "rating": 4.3,
+//           "stock": 123,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg",
+//           "title": "OPPOF19",
+//           "quantity": 1,
+//           "userId": "42b3"
+//         },
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8933",
+//           "brand": "Huawei",
+//           "category": "smartphones",
+//           "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+//           "discountPercentage": 10.58,
+//           "id": "5",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/5/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/5/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/5/3.jpg"
+//           ],
+//           "price": 499,
+//           "rating": 4.09,
+//           "stock": 32,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg",
+//           "title": "Huawei P30",
+//           "quantity": 1,
+//           "userId": "42b3"
+//         },
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8934",
+//           "brand": "Apple",
+//           "category": "laptops",
+//           "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+//           "discountPercentage": 11.02,
+//           "id": "6",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/6/1.png",
+//             "https://cdn.dummyjson.com/product-images/6/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/6/3.png",
+//             "https://cdn.dummyjson.com/product-images/6/4.jpg"
+//           ],
+//           "price": 1749,
+//           "rating": 4.57,
+//           "stock": 83,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/6/thumbnail.png",
+//           "title": "MacBook Pro",
+//           "quantity": 1,
+//           "userId": "42b3"
+//         }
+//       ],
+//       "timestamp": "May 25, 2024, 4:51 PM",
+//       "cost": {
+//         "mrp": 4876,
+//         "totalprice": 7487.018199999999
+//       },
+//       "status": "pending"
+//     },
+//     {
+//       "id": "dc699094-d449-4491-954f-b6a9da5c311a",
+//       "user": {
+//         "_id": "66506a7aad6ca5c722b91f92",
+//         "id": "42b3",
+//         "email": "parthguptaji20@gmail.com",
+//         "password": "65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5",
+//         "role": "user",
+//         "addresses": []
+//       },
+//       "addresses": {
+//         "firstName": "Parth",
+//         "secondtName": "Gupta",
+//         "email": "parthguptaji20@gmail.com",
+//         "Address": "114",
+//         "City": "Indore",
+//         "PostCode": "452010",
+//         "remember": false,
+//         "Message": "qwerty"
+//       },
+//       "items": [
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8932",
+//           "brand": "OPPO",
+//           "category": "smartphones",
+//           "description": "OPPO F19 is officially announced on April 2021.",
+//           "discountPercentage": 17.91,
+//           "id": "4",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/4/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/4/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/4/3.jpg",
+//             "https://cdn.dummyjson.com/product-images/4/4.jpg",
+//             "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg"
+//           ],
+//           "price": 280,
+//           "rating": 4.3,
+//           "stock": 123,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg",
+//           "title": "OPPOF19",
+//           "quantity": 1,
+//           "userId": "42b3"
+//         }
+//       ],
+//       "timestamp": "May 25, 2024, 6:00 PM",
+//       "cost": {
+//         "mrp": 280,
+//         "totalprice": 229.85199999999998
+//       },
+//       "status": "pending"
+//     },
+//     {
+//       "id": "33e83a3d-e68b-4bc3-82d4-db4145090036",
+//       "user": {
+//         "_id": "66506a7aad6ca5c722b91f92",
+//         "id": "42b3",
+//         "email": "parthguptaji20@gmail.com",
+//         "password": "65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5",
+//         "role": "user",
+//         "addresses": []
+//       },
+//       "addresses": {
+//         "firstName": "Aarya",
+//         "secondtName": "Palace",
+//         "email": "aaryatji@gmail.com",
+//         "Address": "Aarya Ka Ghar",
+//         "City": "Indore",
+//         "PostCode": "452010",
+//         "remember": false,
+//         "Message": "Panga nhi"
+//       },
+//       "items": [
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8932",
+//           "brand": "OPPO",
+//           "category": "smartphones",
+//           "description": "OPPO F19 is officially announced on April 2021.",
+//           "discountPercentage": 17.91,
+//           "id": "4",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/4/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/4/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/4/3.jpg",
+//             "https://cdn.dummyjson.com/product-images/4/4.jpg",
+//             "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg"
+//           ],
+//           "price": 280,
+//           "rating": 4.3,
+//           "stock": 123,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg",
+//           "title": "OPPOF19",
+//           "quantity": 1,
+//           "userId": "42b3"
+//         }
+//       ],
+//       "timestamp": "May 25, 2024, 6:25 PM",
+//       "cost": {
+//         "mrp": 280,
+//         "totalprice": 229.85199999999998
+//       },
+//       "status": "Arrived"
+//     },
+//     {
+//       "id": "0ee435aa-12ad-4b59-adbd-cb5e7db66932",
+//       "user": {
+//         "_id": "6651e5b7a19cb87ea6298c58",
+//         "id": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b",
+//         "email": "parthguptaji20@gmail.com",
+//         "password": "65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5",
+//         "addresses": [],
+//         "role": "user"
+//       },
+//       "addresses": {
+//         "firstName": "Parth",
+//         "secondtName": "Gupta",
+//         "email": "parthguptaji20@gmail.com",
+//         "Address": "114",
+//         "City": "Indore",
+//         "PostCode": "452010",
+//         "remember": false,
+//         "Message": "Yo"
+//       },
+//       "items": [
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8931",
+//           "brand": "Samsung",
+//           "category": "smartphones",
+//           "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+//           "discountPercentage": 15.46,
+//           "id": "3",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/3/1.jpg"
+//           ],
+//           "price": 1249,
+//           "rating": 4.09,
+//           "stock": 36,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg",
+//           "title": "Samsung Universe 9",
+//           "quantity": 1,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         }
+//       ],
+//       "timestamp": "May 25, 2024, 6:51 PM",
+//       "cost": {
+//         "mrp": 1249,
+//         "totalprice": 1055.9045999999998
+//       },
+//       "status": "pending"
+//     },
+//     {
+//       "id": "721dfb53-a8e1-4f15-b047-6c17aa54378a",
+//       "user": {
+//         "_id": "6651e5b7a19cb87ea6298c58",
+//         "id": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b",
+//         "email": "parthguptaji20@gmail.com",
+//         "password": "65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5",
+//         "addresses": [],
+//         "role": "user"
+//       },
+//       "addresses": {
+//         "firstName": "Parth",
+//         "secondtName": "Gupta",
+//         "email": "parthguptaji20@gmail.com",
+//         "Address": "114",
+//         "City": "Indore",
+//         "PostCode": "452010",
+//         "remember": true,
+//         "Message": "Yo Baby Doll"
+//       },
+//       "items": [
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8934",
+//           "brand": "Apple",
+//           "category": "laptops",
+//           "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+//           "discountPercentage": 11.02,
+//           "id": "6",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/6/1.png",
+//             "https://cdn.dummyjson.com/product-images/6/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/6/3.png",
+//             "https://cdn.dummyjson.com/product-images/6/4.jpg"
+//           ],
+//           "price": 1749,
+//           "rating": 4.57,
+//           "stock": 83,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/6/thumbnail.png",
+//           "title": "MacBook Pro",
+//           "quantity": 1,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         }
+//       ],
+//       "timestamp": "May 25, 2024, 6:51 PM",
+//       "cost": {
+//         "mrp": 1749,
+//         "totalprice": 1556.2602000000002
+//       },
+//       "status": "pending"
+//     },
+//     {
+//       "id": "d6e03a99-d49c-4cf2-87c8-20e119cbcc85",
+//       "user": {
+//         "_id": "6651e5b7a19cb87ea6298c58",
+//         "id": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b",
+//         "email": "parthguptaji20@gmail.com",
+//         "password": "65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5",
+//         "addresses": [],
+//         "role": "user"
+//       },
+//       "addresses": {
+//         "firstName": "Parth",
+//         "secondtName": "Gupta",
+//         "email": "parthguptaji20@gmail.com",
+//         "Address": "114",
+//         "City": "Indore",
+//         "PostCode": "452010",
+//         "remember": true,
+//         "Message": "yo"
+//       },
+//       "items": [
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8934",
+//           "brand": "Apple",
+//           "category": "laptops",
+//           "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+//           "discountPercentage": 11.02,
+//           "id": "6",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/6/1.png",
+//             "https://cdn.dummyjson.com/product-images/6/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/6/3.png",
+//             "https://cdn.dummyjson.com/product-images/6/4.jpg"
+//           ],
+//           "price": 1749,
+//           "rating": 4.57,
+//           "stock": 83,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/6/thumbnail.png",
+//           "title": "MacBook Pro",
+//           "quantity": 1,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         }
+//       ],
+//       "timestamp": "May 25, 2024, 6:52 PM",
+//       "cost": {
+//         "mrp": 1749,
+//         "totalprice": 1556.2602000000002
+//       },
+//       "status": "pending"
+//     },
+//     {
+//       "id": "3774d9d6-b9bf-447f-bd04-7ac5ee5548e8",
+//       "user": {
+//         "_id": "6651e5b7a19cb87ea6298c58",
+//         "id": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b",
+//         "email": "parthguptaji20@gmail.com",
+//         "password": "65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5",
+//         "addresses": [],
+//         "role": "user"
+//       },
+//       "addresses": {
+//         "firstName": "Parth",
+//         "secondtName": "Gupta",
+//         "email": "parthguptaji20@gmail.com",
+//         "Address": "114",
+//         "City": "Indore",
+//         "PostCode": "452010",
+//         "remember": true,
+//         "Message": "yo"
+//       },
+//       "items": [
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8934",
+//           "brand": "Apple",
+//           "category": "laptops",
+//           "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+//           "discountPercentage": 11.02,
+//           "id": "6",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/6/1.png",
+//             "https://cdn.dummyjson.com/product-images/6/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/6/3.png",
+//             "https://cdn.dummyjson.com/product-images/6/4.jpg"
+//           ],
+//           "price": 1749,
+//           "rating": 4.57,
+//           "stock": 83,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/6/thumbnail.png",
+//           "title": "MacBook Pro",
+//           "quantity": 1,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         }
+//       ],
+//       "timestamp": "May 25, 2024, 6:57 PM",
+//       "cost": {
+//         "mrp": 1749,
+//         "totalprice": 1556.2602000000002
+//       },
+//       "status": "pending"
+//     },
+//     {
+//       "id": "003d3261-aab0-4011-84f8-2ff51204a2e1",
+//       "user": {
+//         "_id": "6651e5b7a19cb87ea6298c58",
+//         "id": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b",
+//         "email": "parthguptaji20@gmail.com",
+//         "password": "65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5",
+//         "addresses": [],
+//         "role": "user"
+//       },
+//       "addresses": {
+//         "firstName": "Parth",
+//         "secondtName": "Gupta",
+//         "email": "parthguptaji20@gmail.com",
+//         "Address": "114",
+//         "City": "Indore",
+//         "PostCode": "452010",
+//         "remember": false,
+//         "Message": "h"
+//       },
+//       "items": [
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8935",
+//           "brand": "Samsung",
+//           "category": "laptops",
+//           "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+//           "discountPercentage": 4.15,
+//           "id": "7",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/7/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/7/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/7/3.jpg",
+//             "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg"
+//           ],
+//           "price": 1499,
+//           "rating": 4.25,
+//           "stock": 50,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg",
+//           "title": "Samsung Galaxy Book",
+//           "quantity": 1,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         }
+//       ],
+//       "timestamp": "May 25, 2024, 6:57 PM",
+//       "cost": {
+//         "mrp": 1499,
+//         "totalprice": 1436.7915
+//       },
+//       "status": "pending"
+//     },
+//     {
+//       "id": "2c02a080-a273-4a23-9a9a-887c51fa1604",
+//       "user": {
+//         "_id": "6651e5b7a19cb87ea6298c58",
+//         "id": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b",
+//         "email": "parthguptaji20@gmail.com",
+//         "password": "65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5",
+//         "addresses": [],
+//         "role": "user"
+//       },
+//       "addresses": {
+//         "firstName": "Parth",
+//         "secondtName": "Gupta",
+//         "email": "parthguptaji20@gmail.com",
+//         "Address": "114",
+//         "City": "Indore",
+//         "PostCode": "452010",
+//         "remember": true,
+//         "Message": ""
+//       },
+//       "items": [
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8935",
+//           "brand": "Samsung",
+//           "category": "laptops",
+//           "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+//           "discountPercentage": 4.15,
+//           "id": "7",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/7/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/7/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/7/3.jpg",
+//             "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg"
+//           ],
+//           "price": 1499,
+//           "rating": 4.25,
+//           "stock": 50,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg",
+//           "title": "Samsung Galaxy Book",
+//           "quantity": 1,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         }
+//       ],
+//       "timestamp": "May 25, 2024, 7:03 PM",
+//       "cost": {
+//         "mrp": 1499,
+//         "totalprice": 1436.7915
+//       },
+//       "status": "pending"
+//     },
+//     {
+//       "id": "d753da54-b7fc-4302-853e-5c3813451e3e",
+//       "user": {
+//         "_id": "6651e5b7a19cb87ea6298c58",
+//         "id": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b",
+//         "email": "parthguptaji20@gmail.com",
+//         "password": "65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5",
+//         "addresses": [],
+//         "role": "user"
+//       },
+//       "addresses": {
+//         "firstName": "Parth",
+//         "secondtName": "Gupta",
+//         "email": "parthguptaji20@gmail.com",
+//         "Address": "114",
+//         "City": "Indore",
+//         "PostCode": "452010",
+//         "remember": true,
+//         "Message": ""
+//       },
+//       "items": [
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8930",
+//           "brand": "Apple",
+//           "category": "smartphones",
+//           "description": "An apple mobile which is nothing like apple",
+//           "discountPercentage": 12.96,
+//           "id": "1",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/1/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/1/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/1/3.jpg",
+//             "https://cdn.dummyjson.com/product-images/1/4.jpg",
+//             "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg"
+//           ],
+//           "price": 549,
+//           "rating": 4.69,
+//           "stock": 94,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+//           "title": "iPhone 9",
+//           "quantity": 1,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         }
+//       ],
+//       "timestamp": "May 25, 2024, 7:04 PM",
+//       "cost": {
+//         "mrp": 549,
+//         "totalprice": 477.84959999999995
+//       },
+//       "status": "pending"
+//     },
+//     {
+//       "id": "402f1721-77a2-4255-be78-60d5bdb64489",
+//       "user": {
+//         "_id": "6651e5b7a19cb87ea6298c58",
+//         "id": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b",
+//         "email": "parthguptaji20@gmail.com",
+//         "password": "65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5",
+//         "addresses": [],
+//         "role": "user"
+//       },
+//       "addresses": {
+//         "firstName": "Parth",
+//         "secondtName": "Gupta",
+//         "email": "parthguptaji20@gmail.com",
+//         "Address": "114",
+//         "City": "Indore",
+//         "PostCode": "452010",
+//         "remember": false,
+//         "Message": "Yo"
+//       },
+//       "items": [
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8931",
+//           "brand": "Samsung",
+//           "category": "smartphones",
+//           "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+//           "discountPercentage": 15.46,
+//           "id": "3",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/3/1.jpg"
+//           ],
+//           "price": 1249,
+//           "rating": 4.09,
+//           "stock": 36,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg",
+//           "title": "Samsung Universe 9",
+//           "quantity": 1,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         }
+//       ],
+//       "timestamp": "May 25, 2024, 7:05 PM",
+//       "cost": {
+//         "mrp": 1249,
+//         "totalprice": 1055.9045999999998
+//       },
+//       "status": "pending"
+//     },
+//     {
+//       "id": "60a897e7-a3b5-4e52-bfab-75ecbb360bda",
+//       "user": {
+//         "_id": "6651e5b7a19cb87ea6298c58",
+//         "id": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b",
+//         "email": "parthguptaji20@gmail.com",
+//         "password": "65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5",
+//         "addresses": [],
+//         "role": "user"
+//       },
+//       "addresses": {
+//         "firstName": "Parth",
+//         "secondtName": "Gupta",
+//         "email": "parthguptaji20@gmail.com",
+//         "Address": "114",
+//         "City": "Indore",
+//         "PostCode": "452010",
+//         "remember": true,
+//         "Message": ""
+//       },
+//       "items": [
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8931",
+//           "brand": "Samsung",
+//           "category": "smartphones",
+//           "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+//           "discountPercentage": 15.46,
+//           "id": "3",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/3/1.jpg"
+//           ],
+//           "price": 1249,
+//           "rating": 4.09,
+//           "stock": 36,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg",
+//           "title": "Samsung Universe 9",
+//           "quantity": 1,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         },
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8934",
+//           "brand": "Apple",
+//           "category": "laptops",
+//           "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+//           "discountPercentage": 11.02,
+//           "id": "6",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/6/1.png",
+//             "https://cdn.dummyjson.com/product-images/6/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/6/3.png",
+//             "https://cdn.dummyjson.com/product-images/6/4.jpg"
+//           ],
+//           "price": 1749,
+//           "rating": 4.57,
+//           "stock": 83,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/6/thumbnail.png",
+//           "title": "MacBook Pro",
+//           "quantity": 1,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         },
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8933",
+//           "brand": "Huawei",
+//           "category": "smartphones",
+//           "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+//           "discountPercentage": 10.58,
+//           "id": "5",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/5/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/5/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/5/3.jpg"
+//           ],
+//           "price": 499,
+//           "rating": 4.09,
+//           "stock": 32,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg",
+//           "title": "Huawei P30",
+//           "quantity": 1,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         },
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8992",
+//           "brand": "Samsung",
+//           "category": "smartphones",
+//           "description": "A Fe Device",
+//           "discountPercentage": 75,
+//           "id": "988af2ea-d32e-4de5-9b73-b757c4456bec",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
+//             "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
+//             "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
+//           ],
+//           "price": 1000,
+//           "rating": 5,
+//           "stock": 50,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
+//           "title": "Samsung S20 Fe",
+//           "quantity": 3,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         }
+//       ],
+//       "timestamp": "May 25, 2024, 11:34 PM",
+//       "cost": {
+//         "mrp": 4497,
+//         "totalprice": 3808.3706
+//       },
+//       "status": "pending"
+//     },
+//     {
+//       "id": "53628bc7-059b-4545-a3fa-5e0630555297",
+//       "user": {
+//         "_id": "6651e5b7a19cb87ea6298c58",
+//         "id": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b",
+//         "email": "parthguptaji20@gmail.com",
+//         "password": "65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5",
+//         "addresses": [],
+//         "role": "user"
+//       },
+//       "addresses": {
+//         "firstName": "Parth",
+//         "secondtName": "Gupta",
+//         "email": "parthguptaji20@gmail.com",
+//         "Address": "114",
+//         "City": "Indore",
+//         "PostCode": "452010",
+//         "remember": true,
+//         "Message": "yo"
+//       },
+//       "items": [
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8930",
+//           "brand": "Apple",
+//           "category": "smartphones",
+//           "description": "An apple mobile which is nothing like apple",
+//           "discountPercentage": 12.96,
+//           "id": "1",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/1/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/1/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/1/3.jpg",
+//             "https://cdn.dummyjson.com/product-images/1/4.jpg",
+//             "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg"
+//           ],
+//           "price": 549,
+//           "rating": 4.69,
+//           "stock": 94,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+//           "title": "iPhone 9",
+//           "quantity": 3,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         },
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8933",
+//           "brand": "Huawei",
+//           "category": "smartphones",
+//           "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+//           "discountPercentage": 10.58,
+//           "id": "5",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/5/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/5/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/5/3.jpg"
+//           ],
+//           "price": 499,
+//           "rating": 4.09,
+//           "stock": 32,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg",
+//           "title": "Huawei P30",
+//           "quantity": 1,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         },
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8931",
+//           "brand": "Samsung",
+//           "category": "smartphones",
+//           "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+//           "discountPercentage": 15.46,
+//           "id": "3",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/3/1.jpg"
+//           ],
+//           "price": 1249,
+//           "rating": 4.09,
+//           "stock": 36,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg",
+//           "title": "Samsung Universe 9",
+//           "quantity": 1,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         },
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d893d",
+//           "brand": "L'Oreal Paris",
+//           "category": "skincare",
+//           "description": "L'OrÃ©al Paris introduces Hyaluron Expert Replumping Serum formulated with 1.5% Hyaluronic Acid",
+//           "discountPercentage": 13.31,
+//           "id": "16",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/16/1.png",
+//             "https://cdn.dummyjson.com/product-images/16/2.webp",
+//             "https://cdn.dummyjson.com/product-images/16/3.jpg",
+//             "https://cdn.dummyjson.com/product-images/16/4.jpg",
+//             "https://cdn.dummyjson.com/product-images/16/thumbnail.jpg"
+//           ],
+//           "price": 19,
+//           "rating": 4.83,
+//           "stock": 110,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/16/thumbnail.jpg",
+//           "title": "Hyaluronic Acid Serum",
+//           "quantity": 1,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         },
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8935",
+//           "brand": "Samsung",
+//           "category": "laptops",
+//           "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+//           "discountPercentage": 4.15,
+//           "id": "7",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/7/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/7/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/7/3.jpg",
+//             "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg"
+//           ],
+//           "price": 1499,
+//           "rating": 4.25,
+//           "stock": 50,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg",
+//           "title": "Samsung Galaxy Book",
+//           "quantity": 1,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         },
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8992",
+//           "brand": "Samsung",
+//           "category": "smartphones",
+//           "description": "A Fe Device",
+//           "discountPercentage": 75,
+//           "id": "988af2ea-d32e-4de5-9b73-b757c4456bec",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
+//             "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
+//             "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
+//           ],
+//           "price": 1000,
+//           "rating": 5,
+//           "stock": 50,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
+//           "title": "Samsung S20 Fe",
+//           "quantity": 2,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         }
+//       ],
+//       "timestamp": "May 25, 2024, 11:42 PM",
+//       "cost": {
+//         "mrp": 4815,
+//         "totalprice": 4888.9218
+//       },
+//       "status": "pending"
+//     },
+//     {
+//       "id": "1ab09345-a7c5-43b8-bbb1-c39ae60dbd1f",
+//       "user": {
+//         "_id": "6651e5b7a19cb87ea6298c58",
+//         "id": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b",
+//         "email": "parthguptaji20@gmail.com",
+//         "password": "65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5",
+//         "addresses": [
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": true,
+//             "Message": "yo"
+//           }
+//         ],
+//         "role": "user"
+//       },
+//       "addresses": {
+//         "firstName": "Parth",
+//         "secondtName": "Gupta",
+//         "email": "parthguptaji20@gmail.com",
+//         "Address": "114",
+//         "City": "Indore",
+//         "PostCode": "452010",
+//         "remember": true,
+//         "Message": "yo"
+//       },
+//       "items": [
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8931",
+//           "brand": "Samsung",
+//           "category": "smartphones",
+//           "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+//           "discountPercentage": 15.46,
+//           "id": "3",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/3/1.jpg"
+//           ],
+//           "price": 1249,
+//           "rating": 4.09,
+//           "stock": 36,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg",
+//           "title": "Samsung Universe 9",
+//           "quantity": 1,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         }
+//       ],
+//       "timestamp": "May 25, 2024, 11:43 PM",
+//       "cost": {
+//         "mrp": 1249,
+//         "totalprice": 1055.9045999999998
+//       },
+//       "status": "pending"
+//     },
+//     {
+//       "id": "4dd9687e-81af-4a1a-8cab-f5d0f1e04b23",
+//       "user": {
+//         "_id": "66506a7aad6ca5c722b91f93",
+//         "id": "9ffe",
+//         "email": "parthgupta221092@acropolis.in",
+//         "password": "65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5",
+//         "addresses": [
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": true,
+//             "Message": ""
+//           },
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": false,
+//             "Message": ""
+//           }
+//         ],
+//         "role": "admin"
+//       },
+//       "addresses": {
+//         "firstName": "Parth",
+//         "secondtName": "Gupta",
+//         "email": "parthguptaji20@gmail.com",
+//         "Address": "114",
+//         "City": "Indore",
+//         "PostCode": "452010",
+//         "remember": false,
+//         "Message": ""
+//       },
+//       "items": [
+//         {
+//           "_id": "6651b571acf84eff52184b9e",
+//           "id": "988af2ea-d32e-4de5-9b73-b757c4456be",
+//           "title": "Samsung S20 Fe",
+//           "category": "smartphones",
+//           "brand": "Samsung",
+//           "stock": 50,
+//           "rating": 5,
+//           "price": 1000,
+//           "discountPercentage": 75,
+//           "description": "A Fe Device",
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
+//             "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
+//             "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
+//           ],
+//           "quantity": 4,
+//           "userId": "9ffe"
+//         },
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8933",
+//           "brand": "Huawei",
+//           "category": "smartphones",
+//           "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+//           "discountPercentage": 10.58,
+//           "id": "5",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/5/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/5/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/5/3.jpg"
+//           ],
+//           "price": 499,
+//           "rating": 4.09,
+//           "stock": 32,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg",
+//           "title": "Huawei P30",
+//           "quantity": 2,
+//           "userId": "9ffe"
+//         },
+//         {
+//           "_id": "66522ab0f6af06b59d8e5a39",
+//           "brand": "Samsung",
+//           "category": "smartphones",
+//           "description": "A Fe Device",
+//           "discountPercentage": 75,
+//           "id": "783a74ca-f190-4373-a1e7-d8366597120c",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
+//             "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
+//             "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
+//           ],
+//           "price": 1000,
+//           "rating": 5,
+//           "stock": 50,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
+//           "title": "Samsung S20 Fe Heavy Phone",
+//           "quantity": 2,
+//           "userId": "9ffe"
+//         }
+//       ],
+//       "timestamp": "May 25, 2024, 11:45 PM",
+//       "cost": {
+//         "mrp": 2499,
+//         "totalprice": 2392.4116
+//       },
+//       "status": "pending"
+//     },
+//     {
+//       "id": "515935b5-eca5-43d5-a14d-ca42d3e33133",
+//       "user": {
+//         "_id": "6651e5b7a19cb87ea6298c58",
+//         "id": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b",
+//         "email": "parthguptaji20@gmail.com",
+//         "password": "65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5",
+//         "addresses": [
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": true,
+//             "Message": "yo"
+//           }
+//         ],
+//         "role": "user"
+//       },
+//       "addresses": {
+//         "firstName": "Parth",
+//         "secondtName": "Gupta",
+//         "email": "parthguptaji20@gmail.com",
+//         "Address": "114",
+//         "City": "Indore",
+//         "PostCode": "452010",
+//         "remember": true,
+//         "Message": "yo"
+//       },
+//       "items": [
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d893b",
+//           "brand": "Al Munakh",
+//           "category": "fragrances",
+//           "description": "Original Al Munakh® by Mahal Al Musk | Our Impression of Climate | 6ml Non-Alcoholic Concentrated Perfume Oil",
+//           "discountPercentage": 15.6,
+//           "id": "14",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/14/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/14/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/14/3.jpg",
+//             "https://cdn.dummyjson.com/product-images/14/thumbnail.jpg"
+//           ],
+//           "price": 120,
+//           "rating": 4.21,
+//           "stock": 114,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/14/thumbnail.jpg",
+//           "title": "Non-Alcoholic Concentrated Perfume Oil",
+//           "quantity": 2,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         },
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8933",
+//           "brand": "Huawei",
+//           "category": "smartphones",
+//           "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+//           "discountPercentage": 10.58,
+//           "id": "5",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/5/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/5/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/5/3.jpg"
+//           ],
+//           "price": 499,
+//           "rating": 4.09,
+//           "stock": 32,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg",
+//           "title": "Huawei P30",
+//           "quantity": 3,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         },
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8930",
+//           "brand": "Apple",
+//           "category": "smartphones",
+//           "description": "An apple mobile which is nothing like apple",
+//           "discountPercentage": 12.96,
+//           "id": "1",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/1/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/1/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/1/3.jpg",
+//             "https://cdn.dummyjson.com/product-images/1/4.jpg",
+//             "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg"
+//           ],
+//           "price": 549,
+//           "rating": 4.69,
+//           "stock": 94,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+//           "title": "iPhone 9",
+//           "quantity": 1,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         },
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d893c",
+//           "brand": "Lord - Al-Rehab",
+//           "category": "fragrances",
+//           "description": "Genuine  Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality",
+//           "discountPercentage": 10.99,
+//           "id": "15",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/15/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/15/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/15/3.jpg",
+//             "https://cdn.dummyjson.com/product-images/15/4.jpg",
+//             "https://cdn.dummyjson.com/product-images/15/thumbnail.jpg"
+//           ],
+//           "price": 30,
+//           "rating": 4.7,
+//           "stock": 105,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/15/thumbnail.jpg",
+//           "title": "Eau De Perfume Spray",
+//           "quantity": 2,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         },
+//         {
+//           "_id": "66522ab0f6af06b59d8e5a39",
+//           "brand": "Samsung",
+//           "category": "smartphones",
+//           "description": "A Fe Device",
+//           "discountPercentage": 75,
+//           "id": "783a74ca-f190-4373-a1e7-d8366597120c",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
+//             "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
+//             "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
+//           ],
+//           "price": 1000,
+//           "rating": 5,
+//           "stock": 50,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
+//           "title": "Samsung S20 Fe Heavy Phone",
+//           "quantity": 2,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         },
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8934",
+//           "brand": "Apple",
+//           "category": "laptops",
+//           "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+//           "discountPercentage": 11.02,
+//           "id": "6",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/6/1.png",
+//             "https://cdn.dummyjson.com/product-images/6/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/6/3.png",
+//             "https://cdn.dummyjson.com/product-images/6/4.jpg"
+//           ],
+//           "price": 1749,
+//           "rating": 4.57,
+//           "stock": 83,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/6/thumbnail.png",
+//           "title": "MacBook Pro",
+//           "quantity": 1,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         }
+//       ],
+//       "timestamp": "May 25, 2024, 11:51 PM",
+//       "cost": {
+//         "mrp": 3947,
+//         "totalprice": 4128.6932
+//       },
+//       "status": "pending"
+//     },
+//     {
+//       "id": "d8695f49-b84f-4cb3-82da-54cfaabe63c4",
+//       "user": {
+//         "_id": "6651e5b7a19cb87ea6298c58",
+//         "id": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b",
+//         "email": "parthguptaji20@gmail.com",
+//         "password": "65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5",
+//         "addresses": [
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": true,
+//             "Message": "yo"
+//           }
+//         ],
+//         "role": "user"
+//       },
+//       "addresses": {
+//         "firstName": "Aarya ",
+//         "secondtName": "T",
+//         "email": "aaryatji@gmail.com",
+//         "Address": "Array Palace",
+//         "City": "Indore",
+//         "PostCode": "452010",
+//         "remember": true,
+//         "Message": ""
+//       },
+//       "items": [
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8933",
+//           "brand": "Huawei",
+//           "category": "smartphones",
+//           "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+//           "discountPercentage": 10.58,
+//           "id": "5",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/5/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/5/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/5/3.jpg"
+//           ],
+//           "price": 499,
+//           "rating": 4.09,
+//           "stock": 32,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg",
+//           "title": "Huawei P30",
+//           "quantity": 1,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         }
+//       ],
+//       "timestamp": "May 25, 2024, 11:51 PM",
+//       "cost": {
+//         "mrp": 499,
+//         "totalprice": 446.2058
+//       },
+//       "status": "pending"
+//     },
+//     {
+//       "id": "722b9b1a-9d72-4b21-86d4-0aa13fced0c7",
+//       "user": {
+//         "_id": "6651e5b7a19cb87ea6298c58",
+//         "id": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b",
+//         "email": "parthguptaji20@gmail.com",
+//         "password": "65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5",
+//         "addresses": [
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": true,
+//             "Message": "yo"
+//           },
+//           {
+//             "firstName": "Aarya ",
+//             "secondtName": "T",
+//             "email": "aaryatji@gmail.com",
+//             "Address": "Array Palace",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": true,
+//             "Message": ""
+//           }
+//         ],
+//         "role": "user"
+//       },
+//       "addresses": {
+//         "firstName": "Parth",
+//         "secondtName": "Gupta",
+//         "email": "parthguptaji20@gmail.com",
+//         "Address": "114",
+//         "City": "Indore",
+//         "PostCode": "452010",
+//         "remember": true,
+//         "Message": "yo"
+//       },
+//       "items": [
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8930",
+//           "brand": "Apple",
+//           "category": "smartphones",
+//           "description": "An apple mobile which is nothing like apple",
+//           "discountPercentage": 12.96,
+//           "id": "1",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/1/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/1/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/1/3.jpg",
+//             "https://cdn.dummyjson.com/product-images/1/4.jpg",
+//             "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg"
+//           ],
+//           "price": 549,
+//           "rating": 4.69,
+//           "stock": 94,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+//           "title": "iPhone 9",
+//           "quantity": 1,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         },
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8935",
+//           "brand": "Samsung",
+//           "category": "laptops",
+//           "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+//           "discountPercentage": 4.15,
+//           "id": "7",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/7/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/7/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/7/3.jpg",
+//             "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg"
+//           ],
+//           "price": 1499,
+//           "rating": 4.25,
+//           "stock": 50,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg",
+//           "title": "Samsung Galaxy Book",
+//           "quantity": 1,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         },
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8935",
+//           "brand": "Samsung",
+//           "category": "laptops",
+//           "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+//           "discountPercentage": 4.15,
+//           "id": "7",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/7/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/7/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/7/3.jpg",
+//             "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg"
+//           ],
+//           "price": 1499,
+//           "rating": 4.25,
+//           "stock": 50,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg",
+//           "title": "Samsung Galaxy Book",
+//           "quantity": 2,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         },
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8938",
+//           "brand": "Impression of Acqua Di Gio",
+//           "category": "fragrances",
+//           "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
+//           "discountPercentage": 8.4,
+//           "id": "11",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/11/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/11/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/11/3.jpg",
+//             "https://cdn.dummyjson.com/product-images/11/thumbnail.jpg"
+//           ],
+//           "price": 13,
+//           "rating": 4.26,
+//           "stock": 65,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/11/thumbnail.jpg",
+//           "title": "perfume Oil",
+//           "quantity": 1,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         }
+//       ],
+//       "timestamp": "May 25, 2024, 11:56 PM",
+//       "cost": {
+//         "mrp": 3560,
+//         "totalprice": 4800.132100000001
+//       },
+//       "status": "pending"
+//     },
+//     {
+//       "id": "f08d9cd9-02ec-4fe9-b656-bbe017a2b208",
+//       "user": {
+//         "_id": "6651e5b7a19cb87ea6298c58",
+//         "id": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b",
+//         "email": "parthguptaji20@gmail.com",
+//         "password": "65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5",
+//         "addresses": [
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": true,
+//             "Message": "yo"
+//           },
+//           {
+//             "firstName": "Aarya ",
+//             "secondtName": "T",
+//             "email": "aaryatji@gmail.com",
+//             "Address": "Array Palace",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": true,
+//             "Message": ""
+//           }
+//         ],
+//         "role": "user"
+//       },
+//       "addresses": {
+//         "firstName": "Parth",
+//         "secondtName": "Gupta",
+//         "email": "parthguptaji20@gmail.com",
+//         "Address": "114",
+//         "City": "Indore",
+//         "PostCode": "452010",
+//         "remember": true,
+//         "Message": "yo"
+//       },
+//       "items": [
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8930",
+//           "brand": "Apple",
+//           "category": "smartphones",
+//           "description": "An apple mobile which is nothing like apple",
+//           "discountPercentage": 12.96,
+//           "id": "1",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/1/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/1/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/1/3.jpg",
+//             "https://cdn.dummyjson.com/product-images/1/4.jpg",
+//             "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg"
+//           ],
+//           "price": 549,
+//           "rating": 4.69,
+//           "stock": 94,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+//           "title": "iPhone 9",
+//           "quantity": 1,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         },
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8938",
+//           "brand": "Impression of Acqua Di Gio",
+//           "category": "fragrances",
+//           "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
+//           "discountPercentage": 8.4,
+//           "id": "11",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/11/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/11/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/11/3.jpg",
+//             "https://cdn.dummyjson.com/product-images/11/thumbnail.jpg"
+//           ],
+//           "price": 13,
+//           "rating": 4.26,
+//           "stock": 65,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/11/thumbnail.jpg",
+//           "title": "perfume Oil",
+//           "quantity": 2,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         },
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8933",
+//           "brand": "Huawei",
+//           "category": "smartphones",
+//           "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+//           "discountPercentage": 10.58,
+//           "id": "5",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/5/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/5/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/5/3.jpg"
+//           ],
+//           "price": 499,
+//           "rating": 4.09,
+//           "stock": 32,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg",
+//           "title": "Huawei P30",
+//           "quantity": 9,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         },
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8935",
+//           "brand": "Samsung",
+//           "category": "laptops",
+//           "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+//           "discountPercentage": 4.15,
+//           "id": "7",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/7/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/7/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/7/3.jpg",
+//             "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg"
+//           ],
+//           "price": 1499,
+//           "rating": 4.25,
+//           "stock": 50,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg",
+//           "title": "Samsung Galaxy Book",
+//           "quantity": 6,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         },
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8936",
+//           "brand": "Infinix",
+//           "category": "laptops",
+//           "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+//           "discountPercentage": 11.83,
+//           "id": "9",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/9/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/9/2.png",
+//             "https://cdn.dummyjson.com/product-images/9/3.png",
+//             "https://cdn.dummyjson.com/product-images/9/4.jpg",
+//             "https://cdn.dummyjson.com/product-images/9/thumbnail.jpg"
+//           ],
+//           "price": 1099,
+//           "rating": 4.54,
+//           "stock": 96,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/9/thumbnail.jpg",
+//           "title": "Infinix INBOOK",
+//           "quantity": 12,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         },
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8936",
+//           "brand": "Infinix",
+//           "category": "laptops",
+//           "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+//           "discountPercentage": 11.83,
+//           "id": "9",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/9/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/9/2.png",
+//             "https://cdn.dummyjson.com/product-images/9/3.png",
+//             "https://cdn.dummyjson.com/product-images/9/4.jpg",
+//             "https://cdn.dummyjson.com/product-images/9/thumbnail.jpg"
+//           ],
+//           "price": 1099,
+//           "rating": 4.54,
+//           "stock": 96,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/9/thumbnail.jpg",
+//           "title": "Infinix INBOOK",
+//           "quantity": 13,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         },
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8936",
+//           "brand": "Infinix",
+//           "category": "laptops",
+//           "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+//           "discountPercentage": 11.83,
+//           "id": "9",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/9/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/9/2.png",
+//             "https://cdn.dummyjson.com/product-images/9/3.png",
+//             "https://cdn.dummyjson.com/product-images/9/4.jpg",
+//             "https://cdn.dummyjson.com/product-images/9/thumbnail.jpg"
+//           ],
+//           "price": 1099,
+//           "rating": 4.54,
+//           "stock": 96,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/9/thumbnail.jpg",
+//           "title": "Infinix INBOOK",
+//           "quantity": 14,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         },
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d893b",
+//           "brand": "Al Munakh",
+//           "category": "fragrances",
+//           "description": "Original Al Munakh® by Mahal Al Musk | Our Impression of Climate | 6ml Non-Alcoholic Concentrated Perfume Oil",
+//           "discountPercentage": 15.6,
+//           "id": "14",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/14/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/14/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/14/3.jpg",
+//             "https://cdn.dummyjson.com/product-images/14/thumbnail.jpg"
+//           ],
+//           "price": 120,
+//           "rating": 4.21,
+//           "stock": 114,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/14/thumbnail.jpg",
+//           "title": "Non-Alcoholic Concentrated Perfume Oil",
+//           "quantity": 1,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         },
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d893b",
+//           "brand": "Al Munakh",
+//           "category": "fragrances",
+//           "description": "Original Al Munakh® by Mahal Al Musk | Our Impression of Climate | 6ml Non-Alcoholic Concentrated Perfume Oil",
+//           "discountPercentage": 15.6,
+//           "id": "14",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/14/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/14/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/14/3.jpg",
+//             "https://cdn.dummyjson.com/product-images/14/thumbnail.jpg"
+//           ],
+//           "price": 120,
+//           "rating": 4.21,
+//           "stock": 114,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/14/thumbnail.jpg",
+//           "title": "Non-Alcoholic Concentrated Perfume Oil",
+//           "quantity": 2,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         },
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8935",
+//           "brand": "Samsung",
+//           "category": "laptops",
+//           "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+//           "discountPercentage": 4.15,
+//           "id": "7",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/7/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/7/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/7/3.jpg",
+//             "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg"
+//           ],
+//           "price": 1499,
+//           "rating": 4.25,
+//           "stock": 50,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg",
+//           "title": "Samsung Galaxy Book",
+//           "quantity": 7,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         }
+//       ],
+//       "timestamp": "May 26, 2024, 12:31 AM",
+//       "cost": {
+//         "mrp": 7596,
+//         "totalprice": 61290.191000000006
+//       },
+//       "status": "pending"
+//     },
+//     {
+//       "id": "9d0f10b6-9f78-4aa6-b905-dcae7884fe45",
+//       "user": {
+//         "_id": "6651e5b7a19cb87ea6298c58",
+//         "id": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b",
+//         "email": "parthguptaji20@gmail.com",
+//         "password": "65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5",
+//         "addresses": [
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": true,
+//             "Message": "yo"
+//           },
+//           {
+//             "firstName": "Aarya ",
+//             "secondtName": "T",
+//             "email": "aaryatji@gmail.com",
+//             "Address": "Array Palace",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": true,
+//             "Message": ""
+//           }
+//         ],
+//         "role": "user"
+//       },
+//       "addresses": {
+//         "firstName": "Parth",
+//         "secondtName": "Gupta",
+//         "email": "parthguptaji20@gmail.com",
+//         "Address": "114",
+//         "City": "Indore",
+//         "PostCode": "452010",
+//         "remember": true,
+//         "Message": "yo"
+//       },
+//       "items": [
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8934",
+//           "brand": "Apple",
+//           "category": "laptops",
+//           "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+//           "discountPercentage": 11.02,
+//           "id": "6",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/6/1.png",
+//             "https://cdn.dummyjson.com/product-images/6/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/6/3.png",
+//             "https://cdn.dummyjson.com/product-images/6/4.jpg"
+//           ],
+//           "price": 1749,
+//           "rating": 4.57,
+//           "stock": 83,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/6/thumbnail.png",
+//           "title": "MacBook Pro",
+//           "quantity": 1,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         },
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8934",
+//           "brand": "Apple",
+//           "category": "laptops",
+//           "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+//           "discountPercentage": 11.02,
+//           "id": "6",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/6/1.png",
+//             "https://cdn.dummyjson.com/product-images/6/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/6/3.png",
+//             "https://cdn.dummyjson.com/product-images/6/4.jpg"
+//           ],
+//           "price": 1749,
+//           "rating": 4.57,
+//           "stock": 83,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/6/thumbnail.png",
+//           "title": "MacBook Pro",
+//           "quantity": 2,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         }
+//       ],
+//       "timestamp": "May 26, 2024, 12:32 AM",
+//       "cost": {
+//         "mrp": 3498,
+//         "totalprice": 4668.7806
+//       },
+//       "status": "pending"
+//     },
+//     {
+//       "id": "b7ff816f-2ce3-4f2e-b3d6-af53d7637e3b",
+//       "user": {
+//         "_id": "6651e5b7a19cb87ea6298c58",
+//         "id": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b",
+//         "email": "parthguptaji20@gmail.com",
+//         "password": "65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5",
+//         "addresses": [
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": true,
+//             "Message": "yo"
+//           },
+//           {
+//             "firstName": "Aarya ",
+//             "secondtName": "T",
+//             "email": "aaryatji@gmail.com",
+//             "Address": "Array Palace",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": true,
+//             "Message": ""
+//           }
+//         ],
+//         "role": "user"
+//       },
+//       "addresses": {
+//         "firstName": "Parth",
+//         "secondtName": "Gupta",
+//         "email": "parthguptaji20@gmail.com",
+//         "Address": "114",
+//         "City": "Indore",
+//         "PostCode": "452010",
+//         "remember": true,
+//         "Message": "yo"
+//       },
+//       "items": [
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8934",
+//           "brand": "Apple",
+//           "category": "laptops",
+//           "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+//           "discountPercentage": 11.02,
+//           "id": "6",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/6/1.png",
+//             "https://cdn.dummyjson.com/product-images/6/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/6/3.png",
+//             "https://cdn.dummyjson.com/product-images/6/4.jpg"
+//           ],
+//           "price": 1749,
+//           "rating": 4.57,
+//           "stock": 83,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/6/thumbnail.png",
+//           "title": "MacBook Pro",
+//           "quantity": 2,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         }
+//       ],
+//       "timestamp": "May 26, 2024, 12:35 AM",
+//       "cost": {
+//         "mrp": 1749,
+//         "totalprice": 3112.5204000000003
+//       },
+//       "status": "pending"
+//     },
+//     {
+//       "id": "afeccd48-c8ab-4f97-afc9-6de70ccaa0ce",
+//       "user": {
+//         "_id": "6651e5b7a19cb87ea6298c58",
+//         "id": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b",
+//         "email": "parthguptaji20@gmail.com",
+//         "password": "65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5",
+//         "addresses": [
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": true,
+//             "Message": "yo"
+//           },
+//           {
+//             "firstName": "Aarya ",
+//             "secondtName": "T",
+//             "email": "aaryatji@gmail.com",
+//             "Address": "Array Palace",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": true,
+//             "Message": ""
+//           }
+//         ],
+//         "role": "user"
+//       },
+//       "addresses": {
+//         "firstName": "Parth",
+//         "secondtName": "Gupta",
+//         "email": "parthguptaji20@gmail.com",
+//         "Address": "114",
+//         "City": "Indore",
+//         "PostCode": "452010",
+//         "remember": true,
+//         "Message": "yo"
+//       },
+//       "items": [
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8930",
+//           "brand": "Apple",
+//           "category": "smartphones",
+//           "description": "An apple mobile which is nothing like apple",
+//           "discountPercentage": 12.96,
+//           "id": "1",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/1/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/1/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/1/3.jpg",
+//             "https://cdn.dummyjson.com/product-images/1/4.jpg",
+//             "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg"
+//           ],
+//           "price": 549,
+//           "rating": 4.69,
+//           "stock": 94,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+//           "title": "iPhone 9",
+//           "quantity": 1,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         }
+//       ],
+//       "timestamp": "May 26, 2024, 12:38 AM",
+//       "cost": {
+//         "mrp": 549,
+//         "totalprice": 477.84959999999995
+//       },
+//       "status": "pending"
+//     },
+//     {
+//       "id": "a519660e-3064-4a2b-a1a2-9e430018f7de",
+//       "user": {
+//         "_id": "6651e5b7a19cb87ea6298c58",
+//         "id": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b",
+//         "email": "parthguptaji20@gmail.com",
+//         "password": "65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5",
+//         "addresses": [
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": true,
+//             "Message": "yo"
+//           },
+//           {
+//             "firstName": "Aarya ",
+//             "secondtName": "T",
+//             "email": "aaryatji@gmail.com",
+//             "Address": "Array Palace",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": true,
+//             "Message": ""
+//           }
+//         ],
+//         "role": "user"
+//       },
+//       "addresses": {
+//         "firstName": "Parth",
+//         "secondtName": "Gupta",
+//         "email": "parthguptaji20@gmail.com",
+//         "Address": "114",
+//         "City": "Indore",
+//         "PostCode": "452010",
+//         "remember": true,
+//         "Message": "yo"
+//       },
+//       "items": [
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8930",
+//           "brand": "Apple",
+//           "category": "smartphones",
+//           "description": "An apple mobile which is nothing like apple",
+//           "discountPercentage": 12.96,
+//           "id": "1",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/1/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/1/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/1/3.jpg",
+//             "https://cdn.dummyjson.com/product-images/1/4.jpg",
+//             "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg"
+//           ],
+//           "price": 549,
+//           "rating": 4.69,
+//           "stock": 94,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+//           "title": "iPhone 9",
+//           "quantity": 1,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         },
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8930",
+//           "brand": "Apple",
+//           "category": "smartphones",
+//           "description": "An apple mobile which is nothing like apple",
+//           "discountPercentage": 12.96,
+//           "id": "1",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/1/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/1/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/1/3.jpg",
+//             "https://cdn.dummyjson.com/product-images/1/4.jpg",
+//             "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg"
+//           ],
+//           "price": 549,
+//           "rating": 4.69,
+//           "stock": 94,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+//           "title": "iPhone 9",
+//           "quantity": 2,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         }
+//       ],
+//       "timestamp": "May 26, 2024, 12:39 AM",
+//       "cost": {
+//         "mrp": 1098,
+//         "totalprice": 1433.5487999999998
+//       },
+//       "status": "pending"
+//     },
+//     {
+//       "id": "dca8dab9-d090-4a18-ad0a-5b4e3ef03d10",
+//       "user": {
+//         "_id": "6651e5b7a19cb87ea6298c58",
+//         "id": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b",
+//         "email": "parthguptaji20@gmail.com",
+//         "password": "65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5",
+//         "addresses": [
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": true,
+//             "Message": "yo"
+//           },
+//           {
+//             "firstName": "Aarya ",
+//             "secondtName": "T",
+//             "email": "aaryatji@gmail.com",
+//             "Address": "Array Palace",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": true,
+//             "Message": ""
+//           }
+//         ],
+//         "role": "user"
+//       },
+//       "addresses": {
+//         "firstName": "Aarya ",
+//         "secondtName": "T",
+//         "email": "aaryatji@gmail.com",
+//         "Address": "Array Palace",
+//         "City": "Indore",
+//         "PostCode": "452010",
+//         "remember": true,
+//         "Message": ""
+//       },
+//       "items": [
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8936",
+//           "brand": "Infinix",
+//           "category": "laptops",
+//           "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+//           "discountPercentage": 11.83,
+//           "id": "9",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/9/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/9/2.png",
+//             "https://cdn.dummyjson.com/product-images/9/3.png",
+//             "https://cdn.dummyjson.com/product-images/9/4.jpg",
+//             "https://cdn.dummyjson.com/product-images/9/thumbnail.jpg"
+//           ],
+//           "price": 1099,
+//           "rating": 4.54,
+//           "stock": 96,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/9/thumbnail.jpg",
+//           "title": "Infinix INBOOK",
+//           "quantity": 1,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         },
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8937",
+//           "brand": "HP Pavilion",
+//           "category": "laptops",
+//           "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+//           "discountPercentage": 6.18,
+//           "id": "10",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/10/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/10/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/10/3.jpg",
+//             "https://cdn.dummyjson.com/product-images/10/thumbnail.jpeg"
+//           ],
+//           "price": 1099,
+//           "rating": 4.43,
+//           "stock": 89,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/10/thumbnail.jpeg",
+//           "title": "HP Pavilion 15-DK1056WM",
+//           "quantity": 1,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         },
+//         {
+//           "_id": "66522ab0f6af06b59d8e5a39",
+//           "brand": "Samsung",
+//           "category": "smartphones",
+//           "description": "A Fe Device",
+//           "discountPercentage": 75,
+//           "id": "783a74ca-f190-4373-a1e7-d8366597120c",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
+//             "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
+//             "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
+//           ],
+//           "price": 1000,
+//           "rating": 5,
+//           "stock": 50,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
+//           "title": "Samsung S20 Fe Heavy Phone",
+//           "quantity": 1,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         }
+//       ],
+//       "timestamp": "May 26, 2024, 12:45 AM",
+//       "cost": {
+//         "mrp": 3198,
+//         "totalprice": 2250.0701
+//       },
+//       "status": "pending"
+//     },
+//     {
+//       "id": "31d20a99-af95-4183-8ea4-af363f1f8bbc",
+//       "user": {
+//         "_id": "6651e5b7a19cb87ea6298c58",
+//         "id": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b",
+//         "email": "parthguptaji20@gmail.com",
+//         "password": "65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5",
+//         "addresses": [
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": true,
+//             "Message": "yo"
+//           },
+//           {
+//             "firstName": "Aarya ",
+//             "secondtName": "T",
+//             "email": "aaryatji@gmail.com",
+//             "Address": "Array Palace",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": true,
+//             "Message": ""
+//           }
+//         ],
+//         "role": "user"
+//       },
+//       "addresses": {
+//         "firstName": "Parth",
+//         "secondtName": "Gupta",
+//         "email": "parthguptaji20@gmail.com",
+//         "Address": "114",
+//         "City": "Indore",
+//         "PostCode": "452010",
+//         "remember": true,
+//         "Message": "yo"
+//       },
+//       "items": [
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8933",
+//           "brand": "Huawei",
+//           "category": "smartphones",
+//           "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+//           "discountPercentage": 10.58,
+//           "id": "5",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/5/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/5/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/5/3.jpg"
+//           ],
+//           "price": 499,
+//           "rating": 4.09,
+//           "stock": 32,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg",
+//           "title": "Huawei P30",
+//           "quantity": 1,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         },
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8934",
+//           "brand": "Apple",
+//           "category": "laptops",
+//           "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+//           "discountPercentage": 11.02,
+//           "id": "6",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/6/1.png",
+//             "https://cdn.dummyjson.com/product-images/6/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/6/3.png",
+//             "https://cdn.dummyjson.com/product-images/6/4.jpg"
+//           ],
+//           "price": 1749,
+//           "rating": 4.57,
+//           "stock": 83,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/6/thumbnail.png",
+//           "title": "MacBook Pro",
+//           "quantity": 3,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         },
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8935",
+//           "brand": "Samsung",
+//           "category": "laptops",
+//           "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+//           "discountPercentage": 4.15,
+//           "id": "7",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/7/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/7/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/7/3.jpg",
+//             "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg"
+//           ],
+//           "price": 1499,
+//           "rating": 4.25,
+//           "stock": 50,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg",
+//           "title": "Samsung Galaxy Book",
+//           "quantity": 1,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         },
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8936",
+//           "brand": "Infinix",
+//           "category": "laptops",
+//           "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+//           "discountPercentage": 11.83,
+//           "id": "9",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/9/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/9/2.png",
+//             "https://cdn.dummyjson.com/product-images/9/3.png",
+//             "https://cdn.dummyjson.com/product-images/9/4.jpg",
+//             "https://cdn.dummyjson.com/product-images/9/thumbnail.jpg"
+//           ],
+//           "price": 1099,
+//           "rating": 4.54,
+//           "stock": 96,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/9/thumbnail.jpg",
+//           "title": "Infinix INBOOK",
+//           "quantity": 4,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         }
+//       ],
+//       "timestamp": "May 26, 2024, 12:54 AM",
+//       "cost": {
+//         "mrp": 4846,
+//         "totalprice": 10427.7311
+//       },
+//       "status": "pending"
+//     },
+//     {
+//       "id": "1812de24-6800-4219-b2bd-ad2d3d7cad04",
+//       "user": {
+//         "_id": "6651e5b7a19cb87ea6298c58",
+//         "id": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b",
+//         "email": "parthguptaji20@gmail.com",
+//         "password": "65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5",
+//         "addresses": [
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": true,
+//             "Message": "yo"
+//           },
+//           {
+//             "firstName": "Aarya ",
+//             "secondtName": "T",
+//             "email": "aaryatji@gmail.com",
+//             "Address": "Array Palace",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": true,
+//             "Message": ""
+//           }
+//         ],
+//         "role": "user"
+//       },
+//       "addresses": {
+//         "firstName": "Parth",
+//         "secondtName": "Gupta",
+//         "email": "parthguptaji20@gmail.com",
+//         "Address": "114",
+//         "City": "Indore",
+//         "PostCode": "452010",
+//         "remember": true,
+//         "Message": "yo"
+//       },
+//       "items": [
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d893a",
+//           "brand": "Fog Scent Xpressio",
+//           "category": "fragrances",
+//           "description": "Product details of Best Fog Scent Xpressio Perfume 100ml For Men cool long lasting perfumes for Men",
+//           "discountPercentage": 8.14,
+//           "id": "13",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/13/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/13/2.png",
+//             "https://cdn.dummyjson.com/product-images/13/3.jpg",
+//             "https://cdn.dummyjson.com/product-images/13/4.jpg",
+//             "https://cdn.dummyjson.com/product-images/13/thumbnail.webp"
+//           ],
+//           "price": 13,
+//           "rating": 4.59,
+//           "stock": 61,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/13/thumbnail.webp",
+//           "title": "Fog Scent Xpressio Perfume",
+//           "quantity": 2,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         },
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8933",
+//           "brand": "Huawei",
+//           "category": "smartphones",
+//           "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+//           "discountPercentage": 10.58,
+//           "id": "5",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/5/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/5/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/5/3.jpg"
+//           ],
+//           "price": 499,
+//           "rating": 4.09,
+//           "stock": 32,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg",
+//           "title": "Huawei P30",
+//           "quantity": 2,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         }
+//       ],
+//       "timestamp": "May 26, 2024, 12:57 AM",
+//       "cost": {
+//         "mrp": 512,
+//         "totalprice": 916.2952
+//       },
+//       "status": "pending"
+//     },
+//     {
+//       "id": "6cbebdd5-6568-4512-b22d-2bcac49a514f",
+//       "user": {
+//         "_id": "6651e5b7a19cb87ea6298c58",
+//         "id": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b",
+//         "email": "parthguptaji20@gmail.com",
+//         "password": "65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5",
+//         "addresses": [
+//           {
+//             "firstName": "Parth",
+//             "secondtName": "Gupta",
+//             "email": "parthguptaji20@gmail.com",
+//             "Address": "114",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": true,
+//             "Message": "yo"
+//           },
+//           {
+//             "firstName": "Aarya ",
+//             "secondtName": "T",
+//             "email": "aaryatji@gmail.com",
+//             "Address": "Array Palace",
+//             "City": "Indore",
+//             "PostCode": "452010",
+//             "remember": true,
+//             "Message": ""
+//           }
+//         ],
+//         "role": "user"
+//       },
+//       "addresses": {
+//         "firstName": "Parth",
+//         "secondtName": "Gupta",
+//         "email": "parthguptaji20@gmail.com",
+//         "Address": "114",
+//         "City": "Indore",
+//         "PostCode": "452010",
+//         "remember": true,
+//         "Message": "yo"
+//       },
+//       "items": [
+//         {
+//           "_id": "664f5b88aeb7c5f0c12d8935",
+//           "brand": "Samsung",
+//           "category": "laptops",
+//           "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+//           "discountPercentage": 4.15,
+//           "id": "7",
+//           "images": [
+//             "https://cdn.dummyjson.com/product-images/7/1.jpg",
+//             "https://cdn.dummyjson.com/product-images/7/2.jpg",
+//             "https://cdn.dummyjson.com/product-images/7/3.jpg",
+//             "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg"
+//           ],
+//           "price": 1499,
+//           "rating": 4.25,
+//           "stock": 50,
+//           "thumbnail": "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg",
+//           "title": "Samsung Galaxy Book",
+//           "quantity": 1,
+//           "userId": "b88bc275-cac0-42e0-8a67-7cbdd6c13c7b"
+//         }
+//       ],
+//       "timestamp": "May 26, 2024, 6:35 PM",
+//       "cost": {
+//         "mrp": 1499,
+//         "totalprice": 1436.7915
+//       },
+//       "status": "pending"
+//     }
+//   ]
+// }
